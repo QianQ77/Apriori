@@ -11,9 +11,11 @@ java -jar AprioriImplement.jar {min_sup} {k} transactionDB.txt output.txt
 “transactionDB.txt” is the path of input Data file name.
 “output.txt” is the path of output file name. The file contains all the results.
 
+
 II. Build Jar from source code and run:
 
 1. How to build Jar:
+
 (1) on Unix-like platforms such as Linux and Mac OS X
 
 	run command as below:
