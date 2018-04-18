@@ -1,5 +1,5 @@
 # Apriori
-An implement of Apriori Algorithm using BitSet.
+An implementation of Apriori Algorithm using BitSet.
 
 I. Directly run:
 
